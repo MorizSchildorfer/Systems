@@ -1,0 +1,9 @@
+Algorithm,Implementation,SDC,Crash,Benign,Hang,FI Runs
+Quick,Recursive,198.57,186.93,114.5,0,500
+Quick,Iterative,193.12,193.74,113.14,0,500
+Insertion,Recursive,160.46,247.66,91.88,0,500
+Insertion,Iterative,162.04,247.62,90.34,0,500
+Merge,Recursive,199.9,200.52,99.56,0,500
+Merge,Iterative,201.01,195.82,103.17,0,500
+Bubble,Recursive,79.08,210.92,210,0,500
+Bubble,Iterative,81.14,195.44,223.42,0,500

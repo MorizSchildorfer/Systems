@@ -10,8 +10,11 @@ Do setup the environment we used the following commands in order
 docker run --name llfi1 -it -v C:/Users/MORIZ/Documents/SystemsProj:/home/Desktop ubuntu:16.04
 
 apt-get install python3  vim
+
 apt-get install cmake tcsh default-jre openjdk-14-jdk
+
 apt install default-jre
+
 pip3 install PyYAML==4.2b1
 
 Then for each program set up the compiled files with commands like the one bellow
